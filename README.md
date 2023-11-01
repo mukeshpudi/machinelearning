@@ -1,3 +1,5 @@
 # machinelearning
-firstRep
-on python
+##firstRep
+##on python
+a="hello word"
+print(a)
